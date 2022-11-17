@@ -23,5 +23,5 @@ How to use
   9. Select the JSON file you downloaded.
   10. All video file names will be changed along with a guide message.
 
-![webscreenshot](https://user-images.githubusercontent.com/13452294/202572154-ec68168b-7efb-4270-9b05-ecdd7fc6c8f1.png){: width="45%" height="45%"}
+![webscreenshot](https://user-images.githubusercontent.com/13452294/202572154-ec68168b-7efb-4270-9b05-ecdd7fc6c8f1.png)
 
