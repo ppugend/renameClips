@@ -154,7 +154,7 @@ fn main(){
     println!("Rename twitch clips automatically!");
 
     let path = FileDialog::new()
-    .set_location(".")
+    .set_location("~/Desktop")
     .add_filter("Exported JSON Data File", &["json"])
     .show_open_single_file()
     .unwrap();
