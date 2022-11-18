@@ -9,6 +9,9 @@ This program has been released for Windows, Linux and MacOS<del>, but only teste
   |    MacOS      |      O        |
   |   Windows     |      O        |
   |    Linux      |      O        |
+  
+Here are the video files and JSON files for testing.
+  - [sampleVideos.zip](https://github.com/ppugend/renameClips/files/10037747/sampleVideos.zip)
 
 
 How to use
