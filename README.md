@@ -2,13 +2,13 @@
 
 rename twitch clips automacally!
 
-This program has been released for Windows, Linux and MacOS, but only tested on MacOS. I'll test it out and update the table at the below.
+This program has been released for Windows, Linux and MacOS<del>, but only tested on MacOS. I'll test it out and update the table at the below.</del>
  
-  |  Supported OS |   Tested      | 
+  |  Supported OS |  Test(v0.1.0) | 
   | ------------- | ------------- |
   |    MacOS      |      O        |
-  |   Windows     |      X        |
-  |    Linux      |      X        |
+  |   Windows     |      O        |
+  |    Linux      |      O        |
 
 
 How to use
