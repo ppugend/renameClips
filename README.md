@@ -6,11 +6,11 @@ This program has been released for Windows, Linux and MacOS<del>, but only teste
  
   |  Supported OS |  Test(v0.1.0) | 
   | ------------- | ------------- |
-  |    MacOS      |      O        |
-  |   Windows     |      O        |
-  |    Linux      |      O        |
+  | MacOS(ventura)|      O        |
+  |  Windows(10)  |      O        |
+  | Linux(Ubuntu) |      O        |
   
-Here are the video files and JSON files for testing.
+Here are the sample video files and JSON file for testing.
   - [sampleVideos.zip](https://github.com/ppugend/renameClips/files/10037747/sampleVideos.zip)
 
 
@@ -19,14 +19,14 @@ How to use
   2. Visit [ANZ Streamer Directory](https://www.twitchanz.com/clips)
   3. Click the Login button and log in with your Twitch ID to give twitchanz access to all your video clips
   4. Select the period you want to download the video for
-  5. Input your twitch id at "Username"
+  5. Input the channel ID of the clip you want to download.
   6. Click the Search button and wait for the list of videos to be listed
   7. Click the Batch Download button and wait for all video files to download
   8. Select JSON in Export type
   9. Click the Export Data to download JSON file
   10. Download renameCLips and run.
   11. Select the JSON file you downloaded.
-  12. All video file names will be changed along with a guide message.
+  12. Video file names will be changed along with a guide message.
 
 
 Screenshot of ANZ Streamer Directory
