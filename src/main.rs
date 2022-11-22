@@ -138,9 +138,16 @@ fn rename_process(json_fullpath:PathBuf){
             }
 
             if Path::new(&paths.0).exists() {
-                fs::rename(paths.0, paths.1);
+                println!("{}\n{}\n",(paths.0).to_string_lossy(),(paths.1).to_string_lossy());
+                let f = fs::rename(paths.0, paths.1);                
+                let f = match f{
+                    Ok(f)=>f,
+                    Err(error) => {
+                        print!("rename error -> {}\n",error)
+                    },
+                };
             }else {
-                println!("src file is not exist {}",(paths.0).to_string_lossy());
+                println!("src file is not exist {}\n",(paths.0).to_string_lossy());
             }
             
 
